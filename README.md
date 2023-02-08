@@ -1,12 +1,11 @@
 ### 👋 Olá!!! sou o Humberto, bem vindo ao meu perfil ☺️
 
   ##
-    
  
 <div align="center">
   <a href="https://github.com/HumbertoLLFilho">
-  <img align="center" width="42%" src="https://github-readme-stats-git-master-humbertollfilho.vercel.app/api?username=HumbertoLLFilho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" width="50%" src="https://github-readme-stats-git-master-humbertollfilho.vercel.app/api/top-langs/?username=HumbertoLLFilho&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" width="42%" src="https://github-readme-stats-git-master-humbertollfilho.vercel.app/api?username=HumbertoLLFilho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,6 +16,7 @@
   <img align="center" alt="humberto-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="humberto-Js" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+    
   ##
  
 <div> 
